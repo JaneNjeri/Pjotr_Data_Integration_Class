@@ -1,0 +1,1948 @@
+
+@prefix    :   <http://pjotr.me/rdf/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+:chr1_22848972_C
+  :variant "chr1_22848972_C" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "22848972" ;
+  :alt "C" .
+:chr1_22848972_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr1_22848972_C .
+:chr1_22848972_C_CONTROLP26
+  :vcf :chr1_22848972_C .
+:chr1_33133968_C
+  :variant "chr1_33133968_C" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "33133968" ;
+  :alt "C" .
+:chr1_33133968_C_CONTROLP25
+  :vcf :chr1_33133968_C .
+:chr1_33133968_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_33133968_C .
+:chr1_60466814_C
+  :variant "chr1_60466814_C" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "60466814" ;
+  :alt "C" .
+:chr1_60466814_C_CONTROLP25
+  :vcf :chr1_60466814_C .
+:chr1_60466814_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_60466814_C .
+:chr1_60466840_T
+  :variant "chr1_60466840_T" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "60466840" ;
+  :alt "T" .
+:chr1_60466840_T_CONTROLP25
+  :vcf :chr1_60466840_T .
+:chr1_60466840_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_60466840_T .
+:chr1_62516683_C
+  :variant "chr1_62516683_C" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "62516683" ;
+  :alt "C" .
+:chr1_62516683_C_CONTROLP25
+  :vcf :chr1_62516683_C .
+:chr1_62516683_C_CONTROLP26
+  :dp   4 ;
+  :vcf :chr1_62516683_C .
+:chr1_66058513_G
+  :variant "chr1_66058513_G" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "66058513" ;
+  :alt "G" .
+:chr1_66058513_G_CONTROLP25
+  :vcf :chr1_66058513_G .
+:chr1_66058513_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_66058513_G .
+:chr1_95709821_C
+  :variant "chr1_95709821_C" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "95709821" ;
+  :alt "C" .
+:chr1_95709821_C_CONTROLP25
+  :vcf :chr1_95709821_C .
+:chr1_95709821_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_95709821_C .
+:chr1_109806834_T
+  :variant "chr1_109806834_T" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "109806834" ;
+  :alt "T" .
+:chr1_109806834_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr1_109806834_T .
+:chr1_109806834_T_CONTROLP26
+  :vcf :chr1_109806834_T .
+:chr1_114354942_G
+  :variant "chr1_114354942_G" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "114354942" ;
+  :alt "G" .
+:chr1_114354942_G_CONTROLP25
+  :vcf :chr1_114354942_G .
+:chr1_114354942_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_114354942_G .
+:chr1_144873962_C
+  :variant "chr1_144873962_C" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "144873962" ;
+  :alt "C" .
+:chr1_144873962_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr1_144873962_C .
+:chr1_144873962_C_CONTROLP26
+  :vcf :chr1_144873962_C .
+:chr1_151733335_G
+  :variant "chr1_151733335_G" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "151733335" ;
+  :alt "G" .
+:chr1_151733335_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr1_151733335_G .
+:chr1_151733335_G_CONTROLP26
+  :vcf :chr1_151733335_G .
+:chr1_157516779_T
+  :variant "chr1_157516779_T" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "157516779" ;
+  :alt "T" .
+:chr1_157516779_T_CONTROLP25
+  :vcf :chr1_157516779_T .
+:chr1_157516779_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_157516779_T .
+:chr1_197479688_A
+  :variant "chr1_197479688_A" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "197479688" ;
+  :alt "A" .
+:chr1_197479688_A_CONTROLP25
+  :vcf :chr1_197479688_A .
+:chr1_197479688_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_197479688_A .
+:chr1_228005073_T
+  :variant "chr1_228005073_T" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "228005073" ;
+  :alt "T" .
+:chr1_228005073_T_CONTROLP25
+  :vcf :chr1_228005073_T .
+:chr1_228005073_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_228005073_T .
+:chr1_228465370_G
+  :variant "chr1_228465370_G" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "228465370" ;
+  :alt "G" .
+:chr1_228465370_G_CONTROLP25
+  :vcf :chr1_228465370_G .
+:chr1_228465370_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_228465370_G .
+:chr1_231488524_T
+  :variant "chr1_231488524_T" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "231488524" ;
+  :alt "T" .
+:chr1_231488524_T_CONTROLP25
+  :vcf :chr1_231488524_T .
+:chr1_231488524_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr1_231488524_T .
+:chr1_235505313_AT
+  :variant "chr1_235505313_AT" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "235505313" ;
+  :alt "AT" .
+:chr1_235505313_AT_CONTROLP25
+  :dp   2 ;
+  :vcf :chr1_235505313_AT .
+:chr1_235505313_AT_CONTROLP26
+  :vcf :chr1_235505313_AT .
+:chr1_237951451_G
+  :variant "chr1_237951451_G" ;
+  rdf:type :snp ;
+  :chr "1" ;
+  :pos "237951451" ;
+  :alt "G" .
+:chr1_237951451_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr1_237951451_G .
+:chr1_237951451_G_CONTROLP26
+  :vcf :chr1_237951451_G .
+:chr2_27682309_T
+  :variant "chr2_27682309_T" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "27682309" ;
+  :alt "T" .
+:chr2_27682309_T_CONTROLP25
+  :vcf :chr2_27682309_T .
+:chr2_27682309_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr2_27682309_T .
+:chr2_32667182_C
+  :variant "chr2_32667182_C" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "32667182" ;
+  :alt "C" .
+:chr2_32667182_C_CONTROLP25
+  :vcf :chr2_32667182_C .
+:chr2_32667182_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr2_32667182_C .
+:chr2_37406680_G
+  :variant "chr2_37406680_G" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "37406680" ;
+  :alt "G" .
+:chr2_37406680_G_CONTROLP25
+  :vcf :chr2_37406680_G .
+:chr2_37406680_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr2_37406680_G .
+:chr2_112705157_C
+  :variant "chr2_112705157_C" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "112705157" ;
+  :alt "C" .
+:chr2_112705157_C_CONTROLP25
+  :vcf :chr2_112705157_C .
+:chr2_112705157_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr2_112705157_C .
+:chr2_113513825_C
+  :variant "chr2_113513825_C" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "113513825" ;
+  :alt "C" .
+:chr2_113513825_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr2_113513825_C .
+:chr2_113513825_C_CONTROLP26
+  :vcf :chr2_113513825_C .
+:chr2_152403960_A
+  :variant "chr2_152403960_A" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "152403960" ;
+  :alt "A" .
+:chr2_152403960_A_CONTROLP25
+  :vcf :chr2_152403960_A .
+:chr2_152403960_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr2_152403960_A .
+:chr2_207998800_T
+  :variant "chr2_207998800_T" ;
+  rdf:type :snp ;
+  :chr "2" ;
+  :pos "207998800" ;
+  :alt "T" .
+:chr2_207998800_T_CONTROLP25
+  :vcf :chr2_207998800_T .
+:chr2_207998800_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr2_207998800_T .
+:chr3_8667896_C
+  :variant "chr3_8667896_C" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "8667896" ;
+  :alt "C" .
+:chr3_8667896_C_CONTROLP25
+  :vcf :chr3_8667896_C .
+:chr3_8667896_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_8667896_C .
+:chr3_57368861_C
+  :variant "chr3_57368861_C" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "57368861" ;
+  :alt "C" .
+:chr3_57368861_C_CONTROLP25
+  :vcf :chr3_57368861_C .
+:chr3_57368861_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_57368861_C .
+:chr3_62478014_A
+  :variant "chr3_62478014_A" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "62478014" ;
+  :alt "A" .
+:chr3_62478014_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr3_62478014_A .
+:chr3_62478014_A_CONTROLP26
+  :vcf :chr3_62478014_A .
+:chr3_75787726_A
+  :variant "chr3_75787726_A" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "75787726" ;
+  :alt "A" .
+:chr3_75787726_A_CONTROLP25
+  :dp   1 ;
+  :vcf :chr3_75787726_A .
+:chr3_75787726_A_CONTROLP26
+  :vcf :chr3_75787726_A .
+:chr3_75787739_T
+  :variant "chr3_75787739_T" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "75787739" ;
+  :alt "T" .
+:chr3_75787739_T_CONTROLP25
+  :dp   1 ;
+  :vcf :chr3_75787739_T .
+:chr3_75787739_T_CONTROLP26
+  :vcf :chr3_75787739_T .
+:chr3_101484335_A
+  :variant "chr3_101484335_A" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "101484335" ;
+  :alt "A" .
+:chr3_101484335_A_CONTROLP25
+  :vcf :chr3_101484335_A .
+:chr3_101484335_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_101484335_A .
+:chr3_119434527_C
+  :variant "chr3_119434527_C" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "119434527" ;
+  :alt "C" .
+:chr3_119434527_C_CONTROLP25
+  :vcf :chr3_119434527_C .
+:chr3_119434527_C_CONTROLP26
+  :dp   1 ;
+  :vcf :chr3_119434527_C .
+:chr3_119434528_A
+  :variant "chr3_119434528_A" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "119434528" ;
+  :alt "A" .
+:chr3_119434528_A_CONTROLP25
+  :vcf :chr3_119434528_A .
+:chr3_119434528_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_119434528_A .
+:chr3_121168152_T
+  :variant "chr3_121168152_T" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "121168152" ;
+  :alt "T" .
+:chr3_121168152_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr3_121168152_T .
+:chr3_121168152_T_CONTROLP26
+  :vcf :chr3_121168152_T .
+:chr3_121822564_T
+  :variant "chr3_121822564_T" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "121822564" ;
+  :alt "T" .
+:chr3_121822564_T_CONTROLP25
+  :vcf :chr3_121822564_T .
+:chr3_121822564_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_121822564_T .
+:chr3_122437321_C
+  :variant "chr3_122437321_C" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "122437321" ;
+  :alt "C" .
+:chr3_122437321_C_CONTROLP25
+  :vcf :chr3_122437321_C .
+:chr3_122437321_C_CONTROLP26
+  :dp   3 ;
+  :vcf :chr3_122437321_C .
+:chr3_134225969_C
+  :variant "chr3_134225969_C" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "134225969" ;
+  :alt "C" .
+:chr3_134225969_C_CONTROLP25
+  :vcf :chr3_134225969_C .
+:chr3_134225969_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_134225969_C .
+:chr3_139244744_C
+  :variant "chr3_139244744_C" ;
+  rdf:type :snp ;
+  :chr "3" ;
+  :pos "139244744" ;
+  :alt "C" .
+:chr3_139244744_C_CONTROLP25
+  :vcf :chr3_139244744_C .
+:chr3_139244744_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr3_139244744_C .
+:chr4_48037926_G
+  :variant "chr4_48037926_G" ;
+  rdf:type :snp ;
+  :chr "4" ;
+  :pos "48037926" ;
+  :alt "G" .
+:chr4_48037926_G_CONTROLP25
+  :vcf :chr4_48037926_G .
+:chr4_48037926_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr4_48037926_G .
+:chr4_100572396_C
+  :variant "chr4_100572396_C" ;
+  rdf:type :snp ;
+  :chr "4" ;
+  :pos "100572396" ;
+  :alt "C" .
+:chr4_100572396_C_CONTROLP25
+  :vcf :chr4_100572396_C .
+:chr4_100572396_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr4_100572396_C .
+:chr5_32400266_G
+  :variant "chr5_32400266_G" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "32400266" ;
+  :alt "G" .
+:chr5_32400266_G_CONTROLP25
+  :vcf :chr5_32400266_G .
+:chr5_32400266_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr5_32400266_G .
+:chr5_64070617_AAATTATGAC
+  :variant "chr5_64070617_AAATTATGAC" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "64070617" ;
+  :alt "AAATTATGAC" .
+:chr5_64070617_AAATTATGAC_CONTROLP25
+  :vcf :chr5_64070617_AAATTATGAC .
+:chr5_64070617_AAATTATGAC_CONTROLP26
+  :dp   2 ;
+  :vcf :chr5_64070617_AAATTATGAC .
+:chr5_74442920_G
+  :variant "chr5_74442920_G" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "74442920" ;
+  :alt "G" .
+:chr5_74442920_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr5_74442920_G .
+:chr5_74442920_G_CONTROLP26
+  :vcf :chr5_74442920_G .
+:chr5_89990324_G
+  :variant "chr5_89990324_G" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "89990324" ;
+  :alt "G" .
+:chr5_89990324_G_CONTROLP25
+  :dp   3 ;
+  :vcf :chr5_89990324_G .
+:chr5_89990324_G_CONTROLP26
+  :vcf :chr5_89990324_G .
+:chr5_102894673_C
+  :variant "chr5_102894673_C" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "102894673" ;
+  :alt "C" .
+:chr5_102894673_C_CONTROLP25
+  :dp   1 ;
+  :vcf :chr5_102894673_C .
+:chr5_102894673_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr5_102894673_C .
+:chr5_145519821_A
+  :variant "chr5_145519821_A" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "145519821" ;
+  :alt "A" .
+:chr5_145519821_A_CONTROLP25
+  :vcf :chr5_145519821_A .
+:chr5_145519821_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr5_145519821_A .
+:chr5_178139442_G
+  :variant "chr5_178139442_G" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "178139442" ;
+  :alt "G" .
+:chr5_178139442_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr5_178139442_G .
+:chr5_178139442_G_CONTROLP26
+  :vcf :chr5_178139442_G .
+:chr5_178996435_G
+  :variant "chr5_178996435_G" ;
+  rdf:type :snp ;
+  :chr "5" ;
+  :pos "178996435" ;
+  :alt "G" .
+:chr5_178996435_G_CONTROLP25
+  :vcf :chr5_178996435_G .
+:chr5_178996435_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr5_178996435_G .
+:chr6_335175_T
+  :variant "chr6_335175_T" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "335175" ;
+  :alt "T" .
+:chr6_335175_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr6_335175_T .
+:chr6_335175_T_CONTROLP26
+  :vcf :chr6_335175_T .
+:chr6_12122645_G
+  :variant "chr6_12122645_G" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "12122645" ;
+  :alt "G" .
+:chr6_12122645_G_CONTROLP25
+  :vcf :chr6_12122645_G .
+:chr6_12122645_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_12122645_G .
+:chr6_29407970_C
+  :variant "chr6_29407970_C" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "29407970" ;
+  :alt "C" .
+:chr6_29407970_C_CONTROLP25
+  :vcf :chr6_29407970_C .
+:chr6_29407970_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_29407970_C .
+:chr6_29523676_G
+  :variant "chr6_29523676_G" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "29523676" ;
+  :alt "G" .
+:chr6_29523676_G_CONTROLP25
+  :vcf :chr6_29523676_G .
+:chr6_29523676_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_29523676_G .
+:chr6_47649222_G
+  :variant "chr6_47649222_G" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "47649222" ;
+  :alt "G" .
+:chr6_47649222_G_CONTROLP25
+  :vcf :chr6_47649222_G .
+:chr6_47649222_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_47649222_G .
+:chr6_56417282_T
+  :variant "chr6_56417282_T" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "56417282" ;
+  :alt "T" .
+:chr6_56417282_T_CONTROLP25
+  :vcf :chr6_56417282_T .
+:chr6_56417282_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_56417282_T .
+:chr6_90448092_T
+  :variant "chr6_90448092_T" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "90448092" ;
+  :alt "T" .
+:chr6_90448092_T_CONTROLP25
+  :vcf :chr6_90448092_T .
+:chr6_90448092_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_90448092_T .
+:chr6_106992464_G
+  :variant "chr6_106992464_G" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "106992464" ;
+  :alt "G" .
+:chr6_106992464_G_CONTROLP25
+  :vcf :chr6_106992464_G .
+:chr6_106992464_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_106992464_G .
+:chr6_121632008_A
+  :variant "chr6_121632008_A" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "121632008" ;
+  :alt "A" .
+:chr6_121632008_A_CONTROLP25
+  :vcf :chr6_121632008_A .
+:chr6_121632008_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_121632008_A .
+:chr6_138754323_G
+  :variant "chr6_138754323_G" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "138754323" ;
+  :alt "G" .
+:chr6_138754323_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr6_138754323_G .
+:chr6_138754323_G_CONTROLP26
+  :dp   1 ;
+  :vcf :chr6_138754323_G .
+:chr6_159188128_G
+  :variant "chr6_159188128_G" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "159188128" ;
+  :alt "G" .
+:chr6_159188128_G_CONTROLP25
+  :vcf :chr6_159188128_G .
+:chr6_159188128_G_CONTROLP26
+  :dp   3 ;
+  :vcf :chr6_159188128_G .
+:chr6_160962177_T
+  :variant "chr6_160962177_T" ;
+  rdf:type :snp ;
+  :chr "6" ;
+  :pos "160962177" ;
+  :alt "T" .
+:chr6_160962177_T_CONTROLP25
+  :vcf :chr6_160962177_T .
+:chr6_160962177_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr6_160962177_T .
+:chr7_6370144_A
+  :variant "chr7_6370144_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "6370144" ;
+  :alt "A" .
+:chr7_6370144_A_CONTROLP25
+  :vcf :chr7_6370144_A .
+:chr7_6370144_A_CONTROLP26
+  :dp   3 ;
+  :vcf :chr7_6370144_A .
+:chr7_12376811_C
+  :variant "chr7_12376811_C" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "12376811" ;
+  :alt "C" .
+:chr7_12376811_C_CONTROLP25
+  :vcf :chr7_12376811_C .
+:chr7_12376811_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_12376811_C .
+:chr7_15584409_T
+  :variant "chr7_15584409_T" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "15584409" ;
+  :alt "T" .
+:chr7_15584409_T_CONTROLP25
+  :vcf :chr7_15584409_T .
+:chr7_15584409_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_15584409_T .
+:chr7_22202052_A
+  :variant "chr7_22202052_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "22202052" ;
+  :alt "A" .
+:chr7_22202052_A_CONTROLP25
+  :vcf :chr7_22202052_A .
+:chr7_22202052_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_22202052_A .
+:chr7_25266626_A
+  :variant "chr7_25266626_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "25266626" ;
+  :alt "A" .
+:chr7_25266626_A_CONTROLP25
+  :vcf :chr7_25266626_A .
+:chr7_25266626_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_25266626_A .
+:chr7_31617733_C
+  :variant "chr7_31617733_C" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "31617733" ;
+  :alt "C" .
+:chr7_31617733_C_CONTROLP25
+  :vcf :chr7_31617733_C .
+:chr7_31617733_C_CONTROLP26
+  :dp   4 ;
+  :vcf :chr7_31617733_C .
+:chr7_42976789_G
+  :variant "chr7_42976789_G" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "42976789" ;
+  :alt "G" .
+:chr7_42976789_G_CONTROLP25
+  :dp   1 ;
+  :vcf :chr7_42976789_G .
+:chr7_42976789_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_42976789_G .
+:chr7_92762681_G
+  :variant "chr7_92762681_G" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "92762681" ;
+  :alt "G" .
+:chr7_92762681_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr7_92762681_G .
+:chr7_92762681_G_CONTROLP26
+  :vcf :chr7_92762681_G .
+:chr7_100551840_A
+  :variant "chr7_100551840_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100551840" ;
+  :alt "A" .
+:chr7_100551840_A_CONTROLP25
+  :vcf :chr7_100551840_A .
+:chr7_100551840_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_100551840_A .
+:chr7_100551842_T
+  :variant "chr7_100551842_T" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100551842" ;
+  :alt "T" .
+:chr7_100551842_T_CONTROLP25
+  :vcf :chr7_100551842_T .
+:chr7_100551842_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_100551842_T .
+:chr7_100551843_C
+  :variant "chr7_100551843_C" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100551843" ;
+  :alt "C" .
+:chr7_100551843_C_CONTROLP25
+  :vcf :chr7_100551843_C .
+:chr7_100551843_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_100551843_C .
+:chr7_100551849_T
+  :variant "chr7_100551849_T" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100551849" ;
+  :alt "T" .
+:chr7_100551849_T_CONTROLP25
+  :dp   1 ;
+  :vcf :chr7_100551849_T .
+:chr7_100551849_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr7_100551849_T .
+:chr7_100552644_A
+  :variant "chr7_100552644_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100552644" ;
+  :alt "A" .
+:chr7_100552644_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr7_100552644_A .
+:chr7_100552644_A_CONTROLP26
+  :dp   1 ;
+  :vcf :chr7_100552644_A .
+:chr7_100552788_T
+  :variant "chr7_100552788_T" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100552788" ;
+  :alt "T" .
+:chr7_100552788_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr7_100552788_T .
+:chr7_100552788_T_CONTROLP26
+  :vcf :chr7_100552788_T .
+:chr7_100552867_C
+  :variant "chr7_100552867_C" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "100552867" ;
+  :alt "C" .
+:chr7_100552867_C_CONTROLP25
+  :dp   1 ;
+  :vcf :chr7_100552867_C .
+:chr7_100552867_C_CONTROLP26
+  :dp   1 ;
+  :vcf :chr7_100552867_C .
+:chr7_142460335_G
+  :variant "chr7_142460335_G" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "142460335" ;
+  :alt "G" .
+:chr7_142460335_G_CONTROLP25
+  :vcf :chr7_142460335_G .
+:chr7_142460335_G_CONTROLP26
+  :dp   1 ;
+  :vcf :chr7_142460335_G .
+:chr7_142460339_A
+  :variant "chr7_142460339_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "142460339" ;
+  :alt "A" .
+:chr7_142460339_A_CONTROLP25
+  :vcf :chr7_142460339_A .
+:chr7_142460339_A_CONTROLP26
+  :dp   1 ;
+  :vcf :chr7_142460339_A .
+:chr7_151970856_A
+  :variant "chr7_151970856_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "151970856" ;
+  :alt "A" .
+:chr7_151970856_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr7_151970856_A .
+:chr7_151970856_A_CONTROLP26
+  :vcf :chr7_151970856_A .
+:chr7_151970931_A
+  :variant "chr7_151970931_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "151970931" ;
+  :alt "A" .
+:chr7_151970931_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr7_151970931_A .
+:chr7_151970931_A_CONTROLP26
+  :vcf :chr7_151970931_A .
+:chr7_154862621_A
+  :variant "chr7_154862621_A" ;
+  rdf:type :snp ;
+  :chr "7" ;
+  :pos "154862621" ;
+  :alt "A" .
+:chr7_154862621_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr7_154862621_A .
+:chr7_154862621_A_CONTROLP26
+  :vcf :chr7_154862621_A .
+:chr8_29023297_A
+  :variant "chr8_29023297_A" ;
+  rdf:type :snp ;
+  :chr "8" ;
+  :pos "29023297" ;
+  :alt "A" .
+:chr8_29023297_A_CONTROLP25
+  :vcf :chr8_29023297_A .
+:chr8_29023297_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr8_29023297_A .
+:chr9_390512_T
+  :variant "chr9_390512_T" ;
+  rdf:type :snp ;
+  :chr "9" ;
+  :pos "390512" ;
+  :alt "T" .
+:chr9_390512_T_CONTROLP25
+  :vcf :chr9_390512_T .
+:chr9_390512_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr9_390512_T .
+:chr9_21334694_C
+  :variant "chr9_21334694_C" ;
+  rdf:type :snp ;
+  :chr "9" ;
+  :pos "21334694" ;
+  :alt "C" .
+:chr9_21334694_C_CONTROLP25
+  :vcf :chr9_21334694_C .
+:chr9_21334694_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr9_21334694_C .
+:chr9_79117556_A
+  :variant "chr9_79117556_A" ;
+  rdf:type :snp ;
+  :chr "9" ;
+  :pos "79117556" ;
+  :alt "A" .
+:chr9_79117556_A_CONTROLP25
+  :vcf :chr9_79117556_A .
+:chr9_79117556_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr9_79117556_A .
+:chr9_86465131_C
+  :variant "chr9_86465131_C" ;
+  rdf:type :snp ;
+  :chr "9" ;
+  :pos "86465131" ;
+  :alt "C" .
+:chr9_86465131_C_CONTROLP25
+  :vcf :chr9_86465131_C .
+:chr9_86465131_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr9_86465131_C .
+:chr9_109687403_G
+  :variant "chr9_109687403_G" ;
+  rdf:type :snp ;
+  :chr "9" ;
+  :pos "109687403" ;
+  :alt "G" .
+:chr9_109687403_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr9_109687403_G .
+:chr9_109687403_G_CONTROLP26
+  :vcf :chr9_109687403_G .
+:chr9_129595895_C
+  :variant "chr9_129595895_C" ;
+  rdf:type :snp ;
+  :chr "9" ;
+  :pos "129595895" ;
+  :alt "C" .
+:chr9_129595895_C_CONTROLP25
+  :vcf :chr9_129595895_C .
+:chr9_129595895_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr9_129595895_C .
+:chr10_30728101_C
+  :variant "chr10_30728101_C" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "30728101" ;
+  :alt "C" .
+:chr10_30728101_C_CONTROLP25
+  :dp   1 ;
+  :vcf :chr10_30728101_C .
+:chr10_30728101_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr10_30728101_C .
+:chr10_45958881_G
+  :variant "chr10_45958881_G" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "45958881" ;
+  :alt "G" .
+:chr10_45958881_G_CONTROLP25
+  :vcf :chr10_45958881_G .
+:chr10_45958881_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr10_45958881_G .
+:chr10_70405855_G
+  :variant "chr10_70405855_G" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "70405855" ;
+  :alt "G" .
+:chr10_70405855_G_CONTROLP25
+  :dp   3 ;
+  :vcf :chr10_70405855_G .
+:chr10_70405855_G_CONTROLP26
+  :vcf :chr10_70405855_G .
+:chr10_95381773_A
+  :variant "chr10_95381773_A" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "95381773" ;
+  :alt "A" .
+:chr10_95381773_A_CONTROLP25
+  :vcf :chr10_95381773_A .
+:chr10_95381773_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr10_95381773_A .
+:chr10_105762591_A
+  :variant "chr10_105762591_A" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "105762591" ;
+  :alt "A" .
+:chr10_105762591_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr10_105762591_A .
+:chr10_105762591_A_CONTROLP26
+  :vcf :chr10_105762591_A .
+:chr10_116013432_T
+  :variant "chr10_116013432_T" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "116013432" ;
+  :alt "T" .
+:chr10_116013432_T_CONTROLP25
+  :vcf :chr10_116013432_T .
+:chr10_116013432_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr10_116013432_T .
+:chr10_126691605_A
+  :variant "chr10_126691605_A" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "126691605" ;
+  :alt "A" .
+:chr10_126691605_A_CONTROLP25
+  :vcf :chr10_126691605_A .
+:chr10_126691605_A_CONTROLP26
+  :dp   1 ;
+  :vcf :chr10_126691605_A .
+:chr10_126691608_T
+  :variant "chr10_126691608_T" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "126691608" ;
+  :alt "T" .
+:chr10_126691608_T_CONTROLP25
+  :vcf :chr10_126691608_T .
+:chr10_126691608_T_CONTROLP26
+  :dp   1 ;
+  :vcf :chr10_126691608_T .
+:chr10_126691631_A
+  :variant "chr10_126691631_A" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "126691631" ;
+  :alt "A" .
+:chr10_126691631_A_CONTROLP25
+  :vcf :chr10_126691631_A .
+:chr10_126691631_A_CONTROLP26
+  :dp   1 ;
+  :vcf :chr10_126691631_A .
+:chr10_126691634_A
+  :variant "chr10_126691634_A" ;
+  rdf:type :snp ;
+  :chr "10" ;
+  :pos "126691634" ;
+  :alt "A" .
+:chr10_126691634_A_CONTROLP25
+  :vcf :chr10_126691634_A .
+:chr10_126691634_A_CONTROLP26
+  :dp   1 ;
+  :vcf :chr10_126691634_A .
+:chr11_2929552_G
+  :variant "chr11_2929552_G" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "2929552" ;
+  :alt "G" .
+:chr11_2929552_G_CONTROLP25
+  :vcf :chr11_2929552_G .
+:chr11_2929552_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_2929552_G .
+:chr11_11373635_T
+  :variant "chr11_11373635_T" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "11373635" ;
+  :alt "T" .
+:chr11_11373635_T_CONTROLP25
+  :vcf :chr11_11373635_T .
+:chr11_11373635_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_11373635_T .
+:chr11_55872657_C
+  :variant "chr11_55872657_C" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "55872657" ;
+  :alt "C" .
+:chr11_55872657_C_CONTROLP25
+  :vcf :chr11_55872657_C .
+:chr11_55872657_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_55872657_C .
+:chr11_63883985_C
+  :variant "chr11_63883985_C" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "63883985" ;
+  :alt "C" .
+:chr11_63883985_C_CONTROLP25
+  :vcf :chr11_63883985_C .
+:chr11_63883985_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_63883985_C .
+:chr11_63885632_G
+  :variant "chr11_63885632_G" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "63885632" ;
+  :alt "G" .
+:chr11_63885632_G_CONTROLP25
+  :vcf :chr11_63885632_G .
+:chr11_63885632_G_CONTROLP26
+  :dp   3 ;
+  :vcf :chr11_63885632_G .
+:chr11_74676794_C
+  :variant "chr11_74676794_C" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "74676794" ;
+  :alt "C" .
+:chr11_74676794_C_CONTROLP25
+  :dp   1 ;
+  :vcf :chr11_74676794_C .
+:chr11_74676794_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_74676794_C .
+:chr11_112041128_T
+  :variant "chr11_112041128_T" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "112041128" ;
+  :alt "T" .
+:chr11_112041128_T_CONTROLP25
+  :vcf :chr11_112041128_T .
+:chr11_112041128_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_112041128_T .
+:chr11_124266912_G
+  :variant "chr11_124266912_G" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "124266912" ;
+  :alt "G" .
+:chr11_124266912_G_CONTROLP25
+  :vcf :chr11_124266912_G .
+:chr11_124266912_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_124266912_G .
+:chr11_130064131_A
+  :variant "chr11_130064131_A" ;
+  rdf:type :snp ;
+  :chr "11" ;
+  :pos "130064131" ;
+  :alt "A" .
+:chr11_130064131_A_CONTROLP25
+  :vcf :chr11_130064131_A .
+:chr11_130064131_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr11_130064131_A .
+:chr12_2788879_A
+  :variant "chr12_2788879_A" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "2788879" ;
+  :alt "A" .
+:chr12_2788879_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr12_2788879_A .
+:chr12_2788879_A_CONTROLP26
+  :vcf :chr12_2788879_A .
+:chr12_10588581_C
+  :variant "chr12_10588581_C" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "10588581" ;
+  :alt "C" .
+:chr12_10588581_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr12_10588581_C .
+:chr12_10588581_C_CONTROLP26
+  :vcf :chr12_10588581_C .
+:chr12_11214360_T
+  :variant "chr12_11214360_T" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "11214360" ;
+  :alt "T" .
+:chr12_11214360_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr12_11214360_T .
+:chr12_11214360_T_CONTROLP26
+  :vcf :chr12_11214360_T .
+:chr12_22646247_A
+  :variant "chr12_22646247_A" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "22646247" ;
+  :alt "A" .
+:chr12_22646247_A_CONTROLP25
+  :vcf :chr12_22646247_A .
+:chr12_22646247_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr12_22646247_A .
+:chr12_30823971_G
+  :variant "chr12_30823971_G" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "30823971" ;
+  :alt "G" .
+:chr12_30823971_G_CONTROLP25
+  :dp   1 ;
+  :vcf :chr12_30823971_G .
+:chr12_30823971_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr12_30823971_G .
+:chr12_53722128_A
+  :variant "chr12_53722128_A" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "53722128" ;
+  :alt "A" .
+:chr12_53722128_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr12_53722128_A .
+:chr12_53722128_A_CONTROLP26
+  :vcf :chr12_53722128_A .
+:chr12_55820121_T
+  :variant "chr12_55820121_T" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "55820121" ;
+  :alt "T" .
+:chr12_55820121_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr12_55820121_T .
+:chr12_55820121_T_CONTROLP26
+  :vcf :chr12_55820121_T .
+:chr12_80889165_TTTG
+  :variant "chr12_80889165_TTTG" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "80889165" ;
+  :alt "TTTG" .
+:chr12_80889165_TTTG_CONTROLP25
+  :dp   2 ;
+  :vcf :chr12_80889165_TTTG .
+:chr12_80889165_TTTG_CONTROLP26
+  :vcf :chr12_80889165_TTTG .
+:chr12_82792942_G
+  :variant "chr12_82792942_G" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "82792942" ;
+  :alt "G" .
+:chr12_82792942_G_CONTROLP25
+  :vcf :chr12_82792942_G .
+:chr12_82792942_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr12_82792942_G .
+:chr12_96653501_T
+  :variant "chr12_96653501_T" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "96653501" ;
+  :alt "T" .
+:chr12_96653501_T_CONTROLP25
+  :vcf :chr12_96653501_T .
+:chr12_96653501_T_CONTROLP26
+  :dp   3 ;
+  :vcf :chr12_96653501_T .
+:chr12_123067501_T
+  :variant "chr12_123067501_T" ;
+  rdf:type :snp ;
+  :chr "12" ;
+  :pos "123067501" ;
+  :alt "T" .
+:chr12_123067501_T_CONTROLP25
+  :vcf :chr12_123067501_T .
+:chr12_123067501_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr12_123067501_T .
+:chr13_32913055_G
+  :variant "chr13_32913055_G" ;
+  rdf:type :snp ;
+  :chr "13" ;
+  :pos "32913055" ;
+  :alt "G" .
+:chr13_32913055_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr13_32913055_G .
+:chr13_32913055_G_CONTROLP26
+  :vcf :chr13_32913055_G .
+:chr13_46170719_C
+  :variant "chr13_46170719_C" ;
+  rdf:type :snp ;
+  :chr "13" ;
+  :pos "46170719" ;
+  :alt "C" .
+:chr13_46170719_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr13_46170719_C .
+:chr13_46170719_C_CONTROLP26
+  :vcf :chr13_46170719_C .
+:chr13_103514737_A
+  :variant "chr13_103514737_A" ;
+  rdf:type :snp ;
+  :chr "13" ;
+  :pos "103514737" ;
+  :alt "A" .
+:chr13_103514737_A_CONTROLP25
+  :vcf :chr13_103514737_A .
+:chr13_103514737_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr13_103514737_A .
+:chr13_107145463_C
+  :variant "chr13_107145463_C" ;
+  rdf:type :snp ;
+  :chr "13" ;
+  :pos "107145463" ;
+  :alt "C" .
+:chr13_107145463_C_CONTROLP25
+  :vcf :chr13_107145463_C .
+:chr13_107145463_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr13_107145463_C .
+:chr14_21469151_C
+  :variant "chr14_21469151_C" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "21469151" ;
+  :alt "C" .
+:chr14_21469151_C_CONTROLP25
+  :vcf :chr14_21469151_C .
+:chr14_21469151_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr14_21469151_C .
+:chr14_21831112_A
+  :variant "chr14_21831112_A" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "21831112" ;
+  :alt "A" .
+:chr14_21831112_A_CONTROLP25
+  :vcf :chr14_21831112_A .
+:chr14_21831112_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr14_21831112_A .
+:chr14_45623122_T
+  :variant "chr14_45623122_T" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "45623122" ;
+  :alt "T" .
+:chr14_45623122_T_CONTROLP25
+  :vcf :chr14_45623122_T .
+:chr14_45623122_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr14_45623122_T .
+:chr14_57101682_G
+  :variant "chr14_57101682_G" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "57101682" ;
+  :alt "G" .
+:chr14_57101682_G_CONTROLP25
+  :vcf :chr14_57101682_G .
+:chr14_57101682_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr14_57101682_G .
+:chr14_70515779_A
+  :variant "chr14_70515779_A" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "70515779" ;
+  :alt "A" .
+:chr14_70515779_A_CONTROLP25
+  :vcf :chr14_70515779_A .
+:chr14_70515779_A_CONTROLP26
+  :dp   3 ;
+  :vcf :chr14_70515779_A .
+:chr14_81610583_C
+  :variant "chr14_81610583_C" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "81610583" ;
+  :alt "C" .
+:chr14_81610583_C_CONTROLP25
+  :dp   1 ;
+  :vcf :chr14_81610583_C .
+:chr14_81610583_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr14_81610583_C .
+:chr14_88651962_T
+  :variant "chr14_88651962_T" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "88651962" ;
+  :alt "T" .
+:chr14_88651962_T_CONTROLP25
+  :vcf :chr14_88651962_T .
+:chr14_88651962_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr14_88651962_T .
+:chr14_105407798_C
+  :variant "chr14_105407798_C" ;
+  rdf:type :snp ;
+  :chr "14" ;
+  :pos "105407798" ;
+  :alt "C" .
+:chr14_105407798_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr14_105407798_C .
+:chr14_105407798_C_CONTROLP26
+  :vcf :chr14_105407798_C .
+:chr15_22368862_A
+  :variant "chr15_22368862_A" ;
+  rdf:type :snp ;
+  :chr "15" ;
+  :pos "22368862" ;
+  :alt "A" .
+:chr15_22368862_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr15_22368862_A .
+:chr15_22368862_A_CONTROLP26
+  :vcf :chr15_22368862_A .
+:chr15_44184197_T
+  :variant "chr15_44184197_T" ;
+  rdf:type :snp ;
+  :chr "15" ;
+  :pos "44184197" ;
+  :alt "T" .
+:chr15_44184197_T_CONTROLP25
+  :vcf :chr15_44184197_T .
+:chr15_44184197_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr15_44184197_T .
+:chr15_65903398_A
+  :variant "chr15_65903398_A" ;
+  rdf:type :snp ;
+  :chr "15" ;
+  :pos "65903398" ;
+  :alt "A" .
+:chr15_65903398_A_CONTROLP25
+  :vcf :chr15_65903398_A .
+:chr15_65903398_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr15_65903398_A .
+:chr15_69728949_G
+  :variant "chr15_69728949_G" ;
+  rdf:type :snp ;
+  :chr "15" ;
+  :pos "69728949" ;
+  :alt "G" .
+:chr15_69728949_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr15_69728949_G .
+:chr15_69728949_G_CONTROLP26
+  :vcf :chr15_69728949_G .
+:chr16_3646215_A
+  :variant "chr16_3646215_A" ;
+  rdf:type :snp ;
+  :chr "16" ;
+  :pos "3646215" ;
+  :alt "A" .
+:chr16_3646215_A_CONTROLP25
+  :vcf :chr16_3646215_A .
+:chr16_3646215_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr16_3646215_A .
+:chr16_11001770_T
+  :variant "chr16_11001770_T" ;
+  rdf:type :snp ;
+  :chr "16" ;
+  :pos "11001770" ;
+  :alt "T" .
+:chr16_11001770_T_CONTROLP25
+  :vcf :chr16_11001770_T .
+:chr16_11001770_T_CONTROLP26
+  :dp   3 ;
+  :vcf :chr16_11001770_T .
+:chr16_14340388_A
+  :variant "chr16_14340388_A" ;
+  rdf:type :snp ;
+  :chr "16" ;
+  :pos "14340388" ;
+  :alt "A" .
+:chr16_14340388_A_CONTROLP25
+  :dp   1 ;
+  :vcf :chr16_14340388_A .
+:chr16_14340388_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr16_14340388_A .
+:chr16_56436917_A
+  :variant "chr16_56436917_A" ;
+  rdf:type :snp ;
+  :chr "16" ;
+  :pos "56436917" ;
+  :alt "A" .
+:chr16_56436917_A_CONTROLP25
+  :vcf :chr16_56436917_A .
+:chr16_56436917_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr16_56436917_A .
+:chr16_82033612_C
+  :variant "chr16_82033612_C" ;
+  rdf:type :snp ;
+  :chr "16" ;
+  :pos "82033612" ;
+  :alt "C" .
+:chr16_82033612_C_CONTROLP25
+  :vcf :chr16_82033612_C .
+:chr16_82033612_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr16_82033612_C .
+:chr16_88712511_T
+  :variant "chr16_88712511_T" ;
+  rdf:type :snp ;
+  :chr "16" ;
+  :pos "88712511" ;
+  :alt "T" .
+:chr16_88712511_T_CONTROLP25
+  :vcf :chr16_88712511_T .
+:chr16_88712511_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr16_88712511_T .
+:chr17_3632836_A
+  :variant "chr17_3632836_A" ;
+  rdf:type :snp ;
+  :chr "17" ;
+  :pos "3632836" ;
+  :alt "A" .
+:chr17_3632836_A_CONTROLP25
+  :vcf :chr17_3632836_A .
+:chr17_3632836_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr17_3632836_A .
+:chr17_8363486_A
+  :variant "chr17_8363486_A" ;
+  rdf:type :snp ;
+  :chr "17" ;
+  :pos "8363486" ;
+  :alt "A" .
+:chr17_8363486_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr17_8363486_A .
+:chr17_8363486_A_CONTROLP26
+  :vcf :chr17_8363486_A .
+:chr17_9515777_A
+  :variant "chr17_9515777_A" ;
+  rdf:type :snp ;
+  :chr "17" ;
+  :pos "9515777" ;
+  :alt "A" .
+:chr17_9515777_A_CONTROLP25
+  :vcf :chr17_9515777_A .
+:chr17_9515777_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr17_9515777_A .
+:chr18_31324934_G
+  :variant "chr18_31324934_G" ;
+  rdf:type :snp ;
+  :chr "18" ;
+  :pos "31324934" ;
+  :alt "G" .
+:chr18_31324934_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr18_31324934_G .
+:chr18_31324934_G_CONTROLP26
+  :vcf :chr18_31324934_G .
+:chr18_56203447_G
+  :variant "chr18_56203447_G" ;
+  rdf:type :snp ;
+  :chr "18" ;
+  :pos "56203447" ;
+  :alt "G" .
+:chr18_56203447_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr18_56203447_G .
+:chr18_56203447_G_CONTROLP26
+  :dp   1 ;
+  :vcf :chr18_56203447_G .
+:chr19_3434413_G
+  :variant "chr19_3434413_G" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "3434413" ;
+  :alt "G" .
+:chr19_3434413_G_CONTROLP25
+  :vcf :chr19_3434413_G .
+:chr19_3434413_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_3434413_G .
+:chr19_6413578_T
+  :variant "chr19_6413578_T" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "6413578" ;
+  :alt "T" .
+:chr19_6413578_T_CONTROLP25
+  :vcf :chr19_6413578_T .
+:chr19_6413578_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_6413578_T .
+:chr19_11221454_C
+  :variant "chr19_11221454_C" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "11221454" ;
+  :alt "C" .
+:chr19_11221454_C_CONTROLP25
+  :vcf :chr19_11221454_C .
+:chr19_11221454_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_11221454_C .
+:chr19_21492062_A
+  :variant "chr19_21492062_A" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "21492062" ;
+  :alt "A" .
+:chr19_21492062_A_CONTROLP25
+  :vcf :chr19_21492062_A .
+:chr19_21492062_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_21492062_A .
+:chr19_22952111_G
+  :variant "chr19_22952111_G" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "22952111" ;
+  :alt "G" .
+:chr19_22952111_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr19_22952111_G .
+:chr19_22952111_G_CONTROLP26
+  :vcf :chr19_22952111_G .
+:chr19_33444511_C
+  :variant "chr19_33444511_C" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "33444511" ;
+  :alt "C" .
+:chr19_33444511_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr19_33444511_C .
+:chr19_33444511_C_CONTROLP26
+  :vcf :chr19_33444511_C .
+:chr19_38378539_C
+  :variant "chr19_38378539_C" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "38378539" ;
+  :alt "C" .
+:chr19_38378539_C_CONTROLP25
+  :vcf :chr19_38378539_C .
+:chr19_38378539_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_38378539_C .
+:chr19_39915637_A
+  :variant "chr19_39915637_A" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "39915637" ;
+  :alt "A" .
+:chr19_39915637_A_CONTROLP25
+  :vcf :chr19_39915637_A .
+:chr19_39915637_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_39915637_A .
+:chr19_48389425_G
+  :variant "chr19_48389425_G" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "48389425" ;
+  :alt "G" .
+:chr19_48389425_G_CONTROLP25
+  :vcf :chr19_48389425_G .
+:chr19_48389425_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_48389425_G .
+:chr19_53085659_T
+  :variant "chr19_53085659_T" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "53085659" ;
+  :alt "T" .
+:chr19_53085659_T_CONTROLP25
+  :vcf :chr19_53085659_T .
+:chr19_53085659_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_53085659_T .
+:chr19_53344051_C
+  :variant "chr19_53344051_C" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "53344051" ;
+  :alt "C" .
+:chr19_53344051_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr19_53344051_C .
+:chr19_53344051_C_CONTROLP26
+  :vcf :chr19_53344051_C .
+:chr19_53912242_A
+  :variant "chr19_53912242_A" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "53912242" ;
+  :alt "A" .
+:chr19_53912242_A_CONTROLP25
+  :dp   3 ;
+  :vcf :chr19_53912242_A .
+:chr19_53912242_A_CONTROLP26
+  :vcf :chr19_53912242_A .
+:chr19_55597421_G
+  :variant "chr19_55597421_G" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "55597421" ;
+  :alt "G" .
+:chr19_55597421_G_CONTROLP25
+  :vcf :chr19_55597421_G .
+:chr19_55597421_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr19_55597421_G .
+:chr19_57931553_T
+  :variant "chr19_57931553_T" ;
+  rdf:type :snp ;
+  :chr "19" ;
+  :pos "57931553" ;
+  :alt "T" .
+:chr19_57931553_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr19_57931553_T .
+:chr19_57931553_T_CONTROLP26
+  :dp   1 ;
+  :vcf :chr19_57931553_T .
+:chr20_1356261_C
+  :variant "chr20_1356261_C" ;
+  rdf:type :snp ;
+  :chr "20" ;
+  :pos "1356261" ;
+  :alt "C" .
+:chr20_1356261_C_CONTROLP25
+  :dp   2 ;
+  :vcf :chr20_1356261_C .
+:chr20_1356261_C_CONTROLP26
+  :vcf :chr20_1356261_C .
+:chr20_29625877_A
+  :variant "chr20_29625877_A" ;
+  rdf:type :snp ;
+  :chr "20" ;
+  :pos "29625877" ;
+  :alt "A" .
+:chr20_29625877_A_CONTROLP25
+  :dp   1 ;
+  :vcf :chr20_29625877_A .
+:chr20_29625877_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr20_29625877_A .
+:chr20_29628431_T
+  :variant "chr20_29628431_T" ;
+  rdf:type :snp ;
+  :chr "20" ;
+  :pos "29628431" ;
+  :alt "T" .
+:chr20_29628431_T_CONTROLP25
+  :vcf :chr20_29628431_T .
+:chr20_29628431_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr20_29628431_T .
+:chr20_44839078_T
+  :variant "chr20_44839078_T" ;
+  rdf:type :snp ;
+  :chr "20" ;
+  :pos "44839078" ;
+  :alt "T" .
+:chr20_44839078_T_CONTROLP25
+  :vcf :chr20_44839078_T .
+:chr20_44839078_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr20_44839078_T .
+:chr21_46957794_C
+  :variant "chr21_46957794_C" ;
+  rdf:type :snp ;
+  :chr "21" ;
+  :pos "46957794" ;
+  :alt "C" .
+:chr21_46957794_C_CONTROLP25
+  :vcf :chr21_46957794_C .
+:chr21_46957794_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chr21_46957794_C .
+:chr21_47786817_G
+  :variant "chr21_47786817_G" ;
+  rdf:type :snp ;
+  :chr "21" ;
+  :pos "47786817" ;
+  :alt "G" .
+:chr21_47786817_G_CONTROLP25
+  :vcf :chr21_47786817_G .
+:chr21_47786817_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr21_47786817_G .
+:chr22_22550510_G
+  :variant "chr22_22550510_G" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "22550510" ;
+  :alt "G" .
+:chr22_22550510_G_CONTROLP25
+  :vcf :chr22_22550510_G .
+:chr22_22550510_G_CONTROLP26
+  :dp   2 ;
+  :vcf :chr22_22550510_G .
+:chr22_22569448_A
+  :variant "chr22_22569448_A" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "22569448" ;
+  :alt "A" .
+:chr22_22569448_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chr22_22569448_A .
+:chr22_22569448_A_CONTROLP26
+  :vcf :chr22_22569448_A .
+:chr22_30771554_G
+  :variant "chr22_30771554_G" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "30771554" ;
+  :alt "G" .
+:chr22_30771554_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr22_30771554_G .
+:chr22_30771554_G_CONTROLP26
+  :vcf :chr22_30771554_G .
+:chr22_36587845_ACT
+  :variant "chr22_36587845_ACT" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "36587845" ;
+  :alt "ACT" .
+:chr22_36587845_ACT_CONTROLP25
+  :vcf :chr22_36587845_ACT .
+:chr22_36587845_ACT_CONTROLP26
+  :dp   2 ;
+  :vcf :chr22_36587845_ACT .
+:chr22_40800544_T
+  :variant "chr22_40800544_T" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "40800544" ;
+  :alt "T" .
+:chr22_40800544_T_CONTROLP25
+  :dp   2 ;
+  :vcf :chr22_40800544_T .
+:chr22_40800544_T_CONTROLP26
+  :vcf :chr22_40800544_T .
+:chr22_41075543_G
+  :variant "chr22_41075543_G" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "41075543" ;
+  :alt "G" .
+:chr22_41075543_G_CONTROLP25
+  :dp   2 ;
+  :vcf :chr22_41075543_G .
+:chr22_41075543_G_CONTROLP26
+  :vcf :chr22_41075543_G .
+:chr22_43936213_A
+  :variant "chr22_43936213_A" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "43936213" ;
+  :alt "A" .
+:chr22_43936213_A_CONTROLP25
+  :vcf :chr22_43936213_A .
+:chr22_43936213_A_CONTROLP26
+  :dp   2 ;
+  :vcf :chr22_43936213_A .
+:chr22_43936228_T
+  :variant "chr22_43936228_T" ;
+  rdf:type :snp ;
+  :chr "22" ;
+  :pos "43936228" ;
+  :alt "T" .
+:chr22_43936228_T_CONTROLP25
+  :vcf :chr22_43936228_T .
+:chr22_43936228_T_CONTROLP26
+  :dp   2 ;
+  :vcf :chr22_43936228_T .
+:chrX_55172537_A
+  :variant "chrX_55172537_A" ;
+  rdf:type :snp ;
+  :chr "X" ;
+  :pos "55172537" ;
+  :alt "A" .
+:chrX_55172537_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chrX_55172537_A .
+:chrX_55172537_A_CONTROLP26
+  :vcf :chrX_55172537_A .
+:chrX_107911706_C
+  :variant "chrX_107911706_C" ;
+  rdf:type :snp ;
+  :chr "X" ;
+  :pos "107911706" ;
+  :alt "C" .
+:chrX_107911706_C_CONTROLP25
+  :vcf :chrX_107911706_C .
+:chrX_107911706_C_CONTROLP26
+  :dp   2 ;
+  :vcf :chrX_107911706_C .
+:chrX_134713855_A
+  :variant "chrX_134713855_A" ;
+  rdf:type :snp ;
+  :chr "X" ;
+  :pos "134713855" ;
+  :alt "A" .
+:chrX_134713855_A_CONTROLP25
+  :dp   2 ;
+  :vcf :chrX_134713855_A .
+:chrX_134713855_A_CONTROLP26
+  :vcf :chrX_134713855_A .
+
+:chr1_66058513_G  :controls  :chr1_114354942_G .
+:chr1_114354942_G :controls  :chr1_144873962_C .
+:chr1_144873962_C :controls  :chr1_66058513_G .
+:chr1_144873962_C :controls  :chrX_134713855_A .
